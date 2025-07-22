@@ -1,0 +1,19 @@
+alias lg='lazygit'
+alias python='python3'
+alias pip='pip3'
+alias slp='caffeinate -i'
+alias sp="export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897"
+
+
+
+
+# ~/.zshrc plugins=() 里加
+plugins=(git zsh-autosuggestions)
+
+# 让建议在底色较暗的终端可见（可选）
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'  # 灰色
+
+plugins+=(zsh-syntax-highlighting)
+
+
+plugins+=(fzf-tab)
