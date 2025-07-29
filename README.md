@@ -1,7 +1,6 @@
 # zshrc_custom
 
 ```
-brew install wget
-brew install bat
+curl -o ~/.zshrc_custom https://raw.githubusercontent.com/cloudsmithy/zshrc_custom/master/.zshrc_custom
 ```
 
