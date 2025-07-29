@@ -1,5 +1,5 @@
 alias lg='lazygit'
-alias python='python3'
+alias python='uv run python'
 alias pip='pip3'
 alias slp='caffeinate -i'
 alias sp="export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897"
