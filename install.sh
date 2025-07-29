@@ -1,2 +1,1 @@
-brew install wget
-brew install bat
+brew install wget lazygit bat cloudflared
