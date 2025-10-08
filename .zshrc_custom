@@ -1,3 +1,6 @@
+alias lzcci='lzc-cli appstore copy-image'
+alias lzcd='lzc-cli project build -o release.lpk'
+alias lzci='lzc-cli app install release.lpk' 
 alias lg='lazygit'
 alias python='uv run python'
 alias pip='pip3'
